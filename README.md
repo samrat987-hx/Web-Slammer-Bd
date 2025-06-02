@@ -12,12 +12,15 @@ Coded by Whisper Hex
 - Subdomain Finder
 - HTTP Headers
 
+TERGET-17 🪄
+
+
 ## 🔧 Usage
 
-Terget 17 🪄 
+
 
 ```bash
 pkg update && pkg install python git
-git clone https://github.com/whisperhex/web-slammer-bd.git
+git clone https://github.com/samrat987-hx/Web-Slammer-Bd.git
 cd web-slammer-bd
 python webslammer.py
