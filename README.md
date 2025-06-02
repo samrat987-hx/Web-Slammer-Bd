@@ -23,4 +23,4 @@ TERGET-17 🪄
 pkg update && pkg install python git
 git clone https://github.com/samrat987-hx/Web-Slammer-Bd.git
 cd web-slammer-bd
-python webslammer.py
+python3 'Web Slammer.py'
