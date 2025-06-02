@@ -22,5 +22,5 @@ TERGET-17 🪄
 ```bash
 pkg update && pkg install python git
 git clone https://github.com/samrat987-hx/Web-Slammer-Bd.git
-cd web-slammer-bd
+cd Web-Slammer-Bd
 python3 'Web Slammer.py'
